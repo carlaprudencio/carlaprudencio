@@ -3,14 +3,15 @@
 </div>
 <div align="left"> 
     <a href="https://www.linkedin.com/in/carlavprudencio/" target="_blank" rel="author"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.instagram.com/carlavies/" target="_blank" rel="author"><img src="https://img.shields.io/badge/carlavies-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/carlavies" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:carlavprudencio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ##
 
 <p>I'm an Analysis and Systems Development student at <strong>Universidade de Fortaleza</strong> and an avid developer. I'm passionate about learning, I'm very curious and I'm always delving into some content. My goal is to improve myself as a Backend Software Engineer. Currently I've diving into <strong>Java</strong>, <strong>Python</strong> and <strong>Cloud Computing</strong>.</p>
 
 <h2 align="left">🚀 &nbsp;Technical Stack: </h2>
-<p align="center">
+<p align="left">
     <img src="https://skillicons.dev/icons?i=java,python,swift,mysql,spring,kubernetes,aws,git,github" />
 </p>
 
@@ -27,7 +28,6 @@
 
 ##
 
-<br>
 <div>
 <a href="">
 <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=carlaprudencio&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
