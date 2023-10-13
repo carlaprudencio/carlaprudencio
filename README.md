@@ -12,7 +12,7 @@
 
 <h2 align="left">🚀 &nbsp;Technical Stack: </h2>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,python,swift,mysql,spring,kubernetes,aws,git,github" />
+    <img src="https://skillicons.dev/icons?i=java,python,swift,mysql,spring,kafka,kubernetes,aws,git,github" />
 </p>
 
 <h2 align="left">🛸 &nbsp;Some fun facts about me: </h2>
